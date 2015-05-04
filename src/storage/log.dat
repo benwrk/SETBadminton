@@ -1,0 +1,363 @@
+2015/04/03 13:42:31: Logging started.
+2015/04/03 13:42:31: 
+2015/04/03 13:42:31: appengine_classes.MainClass | Firing up SET Badminton Court App
+2015/04/03 13:42:31: 
+2015/04/03 13:42:31: SET Badminton Court APP (Java SWING)
+2015/04/03 13:42:31: Version 1.0.0.0 Build date: 20141201
+2015/04/03 13:42:31: Copyright(C) 2014 - Sorawit Sakulkalanuwat, Benjapol Worakan, Prinn Angkunanuwat
+2015/04/03 13:42:31: As a part of Object-Oriented Programming I
+2015/04/03 13:42:31: 
+2015/04/03 13:42:31: gui_backend.StorageUtils | loadAllData() | Loading data from storage...
+2015/04/03 13:42:31: gui_backend.StorageUtils | loadCredentialData() | Loading from file C:\Users\benwr\Desktop\BadmintonCourt.new\SET Badminton Court App\src\storage\credStore.dat...
+2015/04/03 13:42:31: gui_backend.PageUtils | startSplash() | Starting Splash...
+2015/04/03 13:42:32: gui_backend.PositionUtils | getScreenCenterPoint -- Locating screen center for gui_elements.SplashScreenFrame
+2015/04/03 13:42:32: gui_backend.PositionUtils | getScreenCenterPoint -- Screen center for gui_elements.SplashScreenFrame is 483.0,184.0
+2015/04/03 13:42:32: gui_backend.ImageUtils | createScaledImage -- "assets/logo.png" loaded for gui_elements.SplashScreenPanel with size 400x400
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 0.0 | img -- 0.0
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 1.0 | img -- 0.003937008
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 2.0 | img -- 0.007874016
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 3.0 | img -- 0.011811024
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 4.0 | img -- 0.015748031
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 5.0 | img -- 0.01968504
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 6.0 | img -- 0.023622047
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 7.0 | img -- 0.027559055
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 8.0 | img -- 0.031496063
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 9.0 | img -- 0.03543307
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 10.0 | img -- 0.039370075
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 11.0 | img -- 0.04330708
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 12.0 | img -- 0.047244087
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 13.0 | img -- 0.051181093
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 14.0 | img -- 0.0551181
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 15.0 | img -- 0.059055105
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 16.0 | img -- 0.06299211
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 17.0 | img -- 0.06692912
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 18.0 | img -- 0.07086612
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 19.0 | img -- 0.07480313
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 20.0 | img -- 0.078740135
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 21.0 | img -- 0.08267714
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 22.0 | img -- 0.08661415
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 23.0 | img -- 0.09055115
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 24.0 | img -- 0.09448816
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 25.0 | img -- 0.098425165
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 26.0 | img -- 0.10236217
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 27.0 | img -- 0.10629918
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 28.0 | img -- 0.11023618
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 29.0 | img -- 0.11417319
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 30.0 | img -- 0.118110195
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 31.0 | img -- 0.1220472
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 32.0 | img -- 0.1259842
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 33.0 | img -- 0.12992121
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 34.0 | img -- 0.13385822
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 35.0 | img -- 0.13779522
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 36.0 | img -- 0.14173223
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 37.0 | img -- 0.14566924
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 38.0 | img -- 0.14960624
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 39.0 | img -- 0.15354325
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 40.0 | img -- 0.15748025
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 41.0 | img -- 0.16141726
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 42.0 | img -- 0.16535427
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 43.0 | img -- 0.16929127
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 44.0 | img -- 0.17322828
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 45.0 | img -- 0.17716528
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 46.0 | img -- 0.18110229
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 47.0 | img -- 0.1850393
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 48.0 | img -- 0.1889763
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 49.0 | img -- 0.19291331
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 50.0 | img -- 0.19685031
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 51.0 | img -- 0.20078732
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 52.0 | img -- 0.20472433
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 53.0 | img -- 0.20866133
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 54.0 | img -- 0.21259834
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 55.0 | img -- 0.21653534
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 56.0 | img -- 0.22047235
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 57.0 | img -- 0.22440936
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 58.0 | img -- 0.22834636
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 59.0 | img -- 0.23228337
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 60.0 | img -- 0.23622037
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 61.0 | img -- 0.24015738
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 62.0 | img -- 0.24409439
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 63.0 | img -- 0.2480314
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 64.0 | img -- 0.2519684
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 65.0 | img -- 0.25590542
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 66.0 | img -- 0.25984243
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 67.0 | img -- 0.26377943
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 68.0 | img -- 0.26771644
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 69.0 | img -- 0.27165344
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 70.0 | img -- 0.27559045
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 71.0 | img -- 0.27952746
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 72.0 | img -- 0.28346446
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 73.0 | img -- 0.28740147
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 74.0 | img -- 0.29133847
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 75.0 | img -- 0.29527548
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 76.0 | img -- 0.2992125
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 77.0 | img -- 0.3031495
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 78.0 | img -- 0.3070865
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 79.0 | img -- 0.3110235
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 80.0 | img -- 0.3149605
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 81.0 | img -- 0.31889752
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 82.0 | img -- 0.32283452
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 83.0 | img -- 0.32677153
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 84.0 | img -- 0.33070853
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 85.0 | img -- 0.33464554
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 86.0 | img -- 0.33858255
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 87.0 | img -- 0.34251955
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 88.0 | img -- 0.34645656
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 89.0 | img -- 0.35039356
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 90.0 | img -- 0.35433057
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 91.0 | img -- 0.35826758
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 92.0 | img -- 0.36220458
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 93.0 | img -- 0.3661416
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 94.0 | img -- 0.3700786
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 95.0 | img -- 0.3740156
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 96.0 | img -- 0.3779526
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 97.0 | img -- 0.3818896
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 98.0 | img -- 0.38582662
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 99.0 | img -- 0.38976362
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 100.0 | img -- 0.39370063
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 101.0 | img -- 0.39763764
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 102.0 | img -- 0.40157464
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 103.0 | img -- 0.40551165
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 104.0 | img -- 0.40944865
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 105.0 | img -- 0.41338566
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 106.0 | img -- 0.41732267
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 107.0 | img -- 0.42125967
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 108.0 | img -- 0.42519668
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 109.0 | img -- 0.42913368
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 110.0 | img -- 0.4330707
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 111.0 | img -- 0.4370077
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 112.0 | img -- 0.4409447
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 113.0 | img -- 0.4448817
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 114.0 | img -- 0.4488187
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 115.0 | img -- 0.45275572
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 116.0 | img -- 0.45669273
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 117.0 | img -- 0.46062973
+2015/04/03 13:42:33: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 118.0 | img -- 0.46456674
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 119.0 | img -- 0.46850374
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 120.0 | img -- 0.47244075
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 121.0 | img -- 0.47637776
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 122.0 | img -- 0.48031476
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 123.0 | img -- 0.48425177
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 124.0 | img -- 0.48818877
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 125.0 | img -- 0.49212578
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 126.0 | img -- 0.4960628
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 127.0 | img -- 0.4999998
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 128.0 | img -- 0.5039368
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 129.0 | img -- 0.50787383
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 130.0 | img -- 0.51181084
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 131.0 | img -- 0.51574785
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 132.0 | img -- 0.51968485
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 133.0 | img -- 0.52362186
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 134.0 | img -- 0.52755886
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 135.0 | img -- 0.53149587
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 136.0 | img -- 0.5354329
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 137.0 | img -- 0.5393699
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 138.0 | img -- 0.5433069
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 139.0 | img -- 0.5472439
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 140.0 | img -- 0.5511809
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 141.0 | img -- 0.5551179
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 142.0 | img -- 0.5590549
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 143.0 | img -- 0.5629919
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 144.0 | img -- 0.5669289
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 145.0 | img -- 0.5708659
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 146.0 | img -- 0.57480294
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 147.0 | img -- 0.57873994
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 148.0 | img -- 0.58267695
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 149.0 | img -- 0.58661395
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 150.0 | img -- 0.59055096
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 151.0 | img -- 0.59448797
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 152.0 | img -- 0.598425
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 153.0 | img -- 0.602362
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 154.0 | img -- 0.606299
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 155.0 | img -- 0.610236
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 156.0 | img -- 0.614173
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 157.0 | img -- 0.61811
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 158.0 | img -- 0.622047
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 159.0 | img -- 0.625984
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 160.0 | img -- 0.629921
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 161.0 | img -- 0.633858
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 162.0 | img -- 0.63779503
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 163.0 | img -- 0.64173204
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 164.0 | img -- 0.64566904
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 165.0 | img -- 0.64960605
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 166.0 | img -- 0.65354306
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 167.0 | img -- 0.65748006
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 168.0 | img -- 0.66141707
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 169.0 | img -- 0.6653541
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 170.0 | img -- 0.6692911
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 171.0 | img -- 0.6732281
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 172.0 | img -- 0.6771651
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 173.0 | img -- 0.6811021
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 174.0 | img -- 0.6850391
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 175.0 | img -- 0.6889761
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 176.0 | img -- 0.6929131
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 177.0 | img -- 0.6968501
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 178.0 | img -- 0.7007871
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 179.0 | img -- 0.70472413
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 180.0 | img -- 0.70866114
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 181.0 | img -- 0.71259815
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 182.0 | img -- 0.71653515
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 183.0 | img -- 0.72047216
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 184.0 | img -- 0.72440916
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 185.0 | img -- 0.72834617
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 186.0 | img -- 0.7322832
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 187.0 | img -- 0.7362202
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 188.0 | img -- 0.7401572
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 189.0 | img -- 0.7440942
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 190.0 | img -- 0.7480312
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 191.0 | img -- 0.7519682
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 192.0 | img -- 0.7559052
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 193.0 | img -- 0.7598422
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 194.0 | img -- 0.7637792
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 195.0 | img -- 0.7677162
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 196.0 | img -- 0.77165323
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 197.0 | img -- 0.77559024
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 198.0 | img -- 0.77952725
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 199.0 | img -- 0.78346425
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 200.0 | img -- 0.78740126
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 201.0 | img -- 0.79133826
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 202.0 | img -- 0.7952753
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 203.0 | img -- 0.7992123
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 204.0 | img -- 0.8031493
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 205.0 | img -- 0.8070863
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 206.0 | img -- 0.8110233
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 207.0 | img -- 0.8149603
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 208.0 | img -- 0.8188973
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 209.0 | img -- 0.8228343
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 210.0 | img -- 0.8267713
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 211.0 | img -- 0.8307083
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 212.0 | img -- 0.83464533
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 213.0 | img -- 0.83858234
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 214.0 | img -- 0.84251934
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 215.0 | img -- 0.84645635
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 216.0 | img -- 0.85039335
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 217.0 | img -- 0.85433036
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 218.0 | img -- 0.85826737
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 219.0 | img -- 0.8622044
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 220.0 | img -- 0.8661414
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 221.0 | img -- 0.8700784
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 222.0 | img -- 0.8740154
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 223.0 | img -- 0.8779524
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 224.0 | img -- 0.8818894
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 225.0 | img -- 0.8858264
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 226.0 | img -- 0.8897634
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 227.0 | img -- 0.8937004
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 228.0 | img -- 0.8976374
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 229.0 | img -- 0.90157443
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 230.0 | img -- 0.90551144
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 231.0 | img -- 0.90944844
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 232.0 | img -- 0.91338545
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 233.0 | img -- 0.91732246
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 234.0 | img -- 0.92125946
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 235.0 | img -- 0.92519647
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 236.0 | img -- 0.9291335
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 237.0 | img -- 0.9330705
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 238.0 | img -- 0.9370075
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 239.0 | img -- 0.9409445
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 240.0 | img -- 0.9448815
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 241.0 | img -- 0.9488185
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 242.0 | img -- 0.9527555
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 243.0 | img -- 0.9566925
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 244.0 | img -- 0.9606295
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 245.0 | img -- 0.9645665
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 246.0 | img -- 0.96850353
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 247.0 | img -- 0.97244054
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 248.0 | img -- 0.97637755
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 249.0 | img -- 0.98031455
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 250.0 | img -- 0.98425156
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 251.0 | img -- 0.98818856
+2015/04/03 13:42:34: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 252.0 | img -- 0.9921256
+2015/04/03 13:42:35: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 253.0 | img -- 0.9960626
+2015/04/03 13:42:35: gui_elements.SplashScreenFrame | Setting opacity (UP) | frame -- 254.0 | img -- 0.9999996
+2015/04/03 13:42:35: gui_elements.SplashScreenFrame | Thread.sleep(3000)
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 254.0 | img -- 0.9999996
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 248.0 | img -- 0.97637755
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 242.0 | img -- 0.9527555
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 236.0 | img -- 0.9291335
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 230.0 | img -- 0.90551144
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 224.0 | img -- 0.8818894
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 218.0 | img -- 0.85826737
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 212.0 | img -- 0.83464533
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 206.0 | img -- 0.8110233
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 200.0 | img -- 0.78740126
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 194.0 | img -- 0.7637792
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 188.0 | img -- 0.7401572
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 182.0 | img -- 0.71653515
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 176.0 | img -- 0.6929131
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 170.0 | img -- 0.6692911
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 164.0 | img -- 0.64566904
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 158.0 | img -- 0.622047
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 152.0 | img -- 0.598425
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 146.0 | img -- 0.57480294
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 140.0 | img -- 0.5511809
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 134.0 | img -- 0.52755886
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 128.0 | img -- 0.5039368
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 122.0 | img -- 0.4803148
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 116.0 | img -- 0.45669276
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 110.0 | img -- 0.43307072
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 104.0 | img -- 0.40944868
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 98.0 | img -- 0.38582665
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 92.0 | img -- 0.3622046
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 86.0 | img -- 0.33858258
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 80.0 | img -- 0.31496054
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 74.0 | img -- 0.2913385
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 68.0 | img -- 0.26771647
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 62.0 | img -- 0.24409442
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 56.0 | img -- 0.22047237
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 50.0 | img -- 0.19685031
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 44.0 | img -- 0.17322826
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 38.0 | img -- 0.14960621
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 32.0 | img -- 0.12598416
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 26.0 | img -- 0.10236211
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 20.0 | img -- 0.07874006
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 14.0 | img -- 0.055118013
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 8.0 | img -- 0.031495966
+2015/04/03 13:42:38: gui_elements.SplashScreenFrame | Setting opacity (DOWN) | frame -- 2.0 | img -- 0.007873919
+2015/04/03 13:42:38: gui_backend.PageUtils | startSplash() | Splash done.
+2015/04/03 13:42:38: gui_backend.PageUtils | openLoginPage() | Opening LoginPage...
+2015/04/03 13:42:38: gui_backend.ImageUtils | createImage -- "assets/loginIcon.png" loaded for gui_elements.LoginPageFrame
+2015/04/03 13:42:38: gui_backend.ImageUtils | createScaledImageIcon -- "assets/logo.png" loaded for gui_elements.LoginPageFrame with size 88x88
+2015/04/03 13:42:39: gui_backend.ImageUtils | createScaledImageIcon -- "assets/loginIcon.png" loaded for gui_elements.LoginPageFrame with size 30x30
+2015/04/03 13:42:39: gui_backend.ImageUtils | createScaledImageIcon -- "assets/closeIcon.png" loaded for gui_elements.LoginPageFrame with size 30x30
+2015/04/03 13:42:39: gui_backend.ImageUtils | createScaledImageIcon -- "assets/submitIcon.png" loaded for gui_elements.LoginPageFrame with size 40x40
+2015/04/03 13:42:39: gui_backend.ImageUtils | createScaledImageIcon -- "assets/registerIcon.png" loaded for gui_elements.LoginPageFrame with size 40x40
+2015/04/03 13:42:39: gui_elements.LoginPageBgFrame | Building LoginPageBgFrame...
+2015/04/03 13:42:39: gui_backend.ImageUtils | createImage -- "assets/loginIcon.png" loaded for gui_elements.LoginPageBgFrame
+2015/04/03 13:42:39: gui_elements.LoginPageBgFrame | Loading animated image resource "assets/animatedBg.gif" and building ImageIcon...
+2015/04/03 13:42:39: gui_backend.PositionUtils | getScreenCenterPoint -- Locating screen center for gui_elements.LoginPageBgFrame
+2015/04/03 13:42:39: gui_backend.PositionUtils | getScreenCenterPoint -- Screen center for gui_elements.LoginPageBgFrame is 283.0,159.0
+2015/04/03 13:42:39: gui_elements.LoginPageBgFrame | Building finished.
+2015/04/03 13:42:39: gui_backend.PositionUtils | getScreenCenterPoint -- Locating screen center for gui_elements.LoginPageFrame
+2015/04/03 13:42:39: gui_backend.PositionUtils | getScreenCenterPoint -- Screen center for gui_elements.LoginPageFrame is 283.0,159.0
+2015/04/03 13:42:39: appengine_classes.MainClass | End of MainClass.
+2015/04/03 13:42:45: gui_backend.CredentialUtils | trying login with username = "admin" and entered password.
+2015/04/03 13:42:45: gui_backend.CredentialUtils | "admin" username found, password matched.
+2015/04/03 13:42:45: gui_backend.PageUtils | openMainPage() | Opening MainPage with username = "admin"...
+2015/04/03 13:42:45: gui_backend.ImageUtils | createScaledImageIcon -- "assets/homeIcon.png" loaded for gui_elements.MainPageFrame with size 30x30
+2015/04/03 13:42:45: gui_backend.ImageUtils | createScaledImageIcon -- "assets/searchTimeIcon.png" loaded for gui_elements.MainPageFrame with size 30x30
+2015/04/03 13:42:45: gui_backend.ImageUtils | createScaledImageIcon -- "assets/reserveIcon.png" loaded for gui_elements.MainPageFrame with size 30x30
+2015/04/03 13:42:45: gui_backend.ImageUtils | createScaledImageIcon -- "assets/informationIcon.png" loaded for gui_elements.MainPageFrame with size 30x30
+2015/04/03 13:42:45: gui_backend.ImageUtils | createScaledImageIcon -- "assets/exitIcon.png" loaded for gui_elements.MainPageFrame with size 30x30
+2015/04/03 13:42:46: gui_backend.ImageUtils | createScaledImageIcon -- "assets/logo.png" loaded for gui_elements.MainPageFrame with size 88x88
+2015/04/03 13:42:46: gui_backend.ImageUtils | createScaledImageIcon -- "assets/userIcon.png" loaded for gui_elements.MainPageFrame with size 30x30
+2015/04/03 13:42:46: gui_backend.PositionUtils | getScreenCenterPoint -- Locating screen center for gui_elements.MainPageFrame
+2015/04/03 13:42:46: gui_backend.PositionUtils | getScreenCenterPoint -- Screen center for gui_elements.MainPageFrame is 283.0,159.0
+2015/04/03 13:42:51: gui_elements.MainPageFrame | Logging out...
+2015/04/03 13:42:51: gui_backend.PageUtils | openLoginPage() | Opening LoginPage...
+2015/04/03 13:42:51: gui_backend.ImageUtils | createImage -- "assets/loginIcon.png" loaded for gui_elements.LoginPageFrame
+2015/04/03 13:42:51: gui_backend.ImageUtils | createScaledImageIcon -- "assets/logo.png" loaded for gui_elements.LoginPageFrame with size 88x88
+2015/04/03 13:42:51: gui_backend.ImageUtils | createScaledImageIcon -- "assets/loginIcon.png" loaded for gui_elements.LoginPageFrame with size 30x30
+2015/04/03 13:42:51: gui_backend.ImageUtils | createScaledImageIcon -- "assets/closeIcon.png" loaded for gui_elements.LoginPageFrame with size 30x30
+2015/04/03 13:42:52: gui_backend.ImageUtils | createScaledImageIcon -- "assets/submitIcon.png" loaded for gui_elements.LoginPageFrame with size 40x40
+2015/04/03 13:42:52: gui_backend.ImageUtils | createScaledImageIcon -- "assets/registerIcon.png" loaded for gui_elements.LoginPageFrame with size 40x40
+2015/04/03 13:42:52: gui_elements.LoginPageBgFrame | Building LoginPageBgFrame...
+2015/04/03 13:42:52: gui_backend.ImageUtils | createImage -- "assets/loginIcon.png" loaded for gui_elements.LoginPageBgFrame
+2015/04/03 13:42:52: gui_elements.LoginPageBgFrame | Loading animated image resource "assets/animatedBg.gif" and building ImageIcon...
+2015/04/03 13:42:52: gui_backend.PositionUtils | getScreenCenterPoint -- Locating screen center for gui_elements.LoginPageBgFrame
+2015/04/03 13:42:52: gui_backend.PositionUtils | getScreenCenterPoint -- Screen center for gui_elements.LoginPageBgFrame is 283.0,159.0
+2015/04/03 13:42:52: gui_elements.LoginPageBgFrame | Building finished.
+2015/04/03 13:42:52: gui_backend.PositionUtils | getScreenCenterPoint -- Locating screen center for gui_elements.LoginPageFrame
+2015/04/03 13:42:52: gui_backend.PositionUtils | getScreenCenterPoint -- Screen center for gui_elements.LoginPageFrame is 283.0,159.0
+2015/04/03 13:42:53: gui_backend.PageUtils | quitApp() | normal exit, saving data...
+2015/04/03 13:42:53: gui_backend.StorageUtils | saveAllData() | Saving data to storage...
+2015/04/03 13:42:53: gui_backend.StorageUtils | saveCredentialData() | Saving to file C:\Users\benwr\Desktop\BadmintonCourt.new\SET Badminton Court App\src\storage\credStore.dat...
+2015/04/03 13:42:53: gui_backend.PageUtils | quitApp() | EXITING... with status = "0" (System.exit(0))
